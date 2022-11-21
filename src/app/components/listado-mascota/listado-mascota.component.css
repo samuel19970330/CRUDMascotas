@@ -35,3 +35,8 @@ td , th{
   .search{
     cursor: pointer;
   }
+
+  .agregar{
+    font-size: 10px;
+    line-height: 28px;
+  }
